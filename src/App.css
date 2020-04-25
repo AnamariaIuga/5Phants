@@ -1,0 +1,111 @@
+/* Header */
+#header {
+  height: 15vh;
+  border-bottom: 3px solid #cbcbcb !important;
+}
+
+.btn-close {
+  height: 2em;
+  width: auto;
+  cursor: pointer;
+}
+
+.btn-publish {
+  border-radius: 35px !important;
+  background-color: #e7386a !important;
+  border: 1px solid #e7386a !important;
+  cursor: pointer;
+}
+
+/* Main */
+#main {
+  border-bottom: 3px solid #cbcbcb !important;
+}
+
+.active {
+  border-radius: 35px !important;
+  border: 2px solid #e7386a !important;
+  color: #e7386a !important;
+  cursor: pointer;
+  width: 100px;
+}
+
+.not-active {
+  border-radius: 35px !important;
+  border: 2px solid #cbcbcb !important;
+  color: #cbcbcb !important;
+  cursor: pointer;
+  width: 100px;
+}
+
+.input-search {
+  border-radius: 35px !important;
+  border: 2px solid #e5e5e5 !important;
+  color: #212121 !important;
+  background-color: #e5e5e5 !important;
+}
+
+.search-icon {
+  height: 2em;
+  width: auto;
+}
+
+.input-title {
+  position: absolute;
+  margin-top: -15px;
+  width: 50% !important;
+  border-radius: 35px !important;
+  border: 1px solid #e7386a !important;
+  color: #e7386a !important;
+  margin-left: 10%;
+}
+
+.input-text-area {
+  border: 1px solid #e7386a !important;
+}
+
+.icon {
+  height: 2em;
+  width: auto;
+  background-color: #e7386a;
+  border-radius: 50%;
+}
+
+.icons {
+  margin-top: -15px;
+  z-index: 1000;
+  position: absolute;
+  left: 265px;
+}
+
+/* Footer */
+.icon-star {
+  height: 2em;
+  width: auto;
+}
+
+.ratings {
+  color: #e7386a
+}
+
+.input-offers {
+  border-radius: 35px !important;
+}
+
+.red {
+  color: #e7386a
+}
+
+.card-popup {
+  border: 2px solid #e7386a !important;
+}
+
+/* #input-type-file button {
+  background-color: blue !important
+}
+
+input[type=file] {
+  border: 2px solid #e7386a !important;
+  border-radius: 35px !important;
+  padding: 5px;
+} */
